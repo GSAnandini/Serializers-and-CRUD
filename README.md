@@ -1,4 +1,5 @@
 # Serializers-and-CRUD
+GO TO quickstart -> "views.py" = serialization + CRUD operations
 In this I added serializers and CRUD operations
 C ---> CREATE  [method: 'POST']    --> localhost: "http://127.0.0.1:8000/api/add/"
 R ---> READ    [method: 'GET']     --> localhost: "http://127.0.0.1:8000/api/"
